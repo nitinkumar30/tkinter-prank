@@ -10,7 +10,7 @@
 
 # Working
 
-![Working video](working_video.gif)
+![Working video](python-prank-proj.gif)
 
 # How to run
 
